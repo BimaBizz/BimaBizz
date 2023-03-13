@@ -1,3 +1,8 @@
+![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Bima. I do love code how about you?" src="./assets/gh-readme-header.png" /></a></p>
 
 As a front-end web developer, I specialize in creating attractive and responsive user interfaces. I have in-depth knowledge of web programming languages such as HTML, CSS, and JavaScript, as well as experience in using various tools and technologies related to front-end web development.
