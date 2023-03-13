@@ -1,4 +1,4 @@
-### Hey, I'm Bima Mahendra 👋
+# Hey, I'm Bima Mahendra 👋
 
 As a front-end web developer, I specialize in creating attractive and responsive user interfaces. I have in-depth knowledge of web programming languages such as HTML, CSS, and JavaScript, as well as experience in using various tools and technologies related to front-end web development.
 
@@ -13,7 +13,7 @@ As a front-end web developer, I specialize in creating attractive and responsive
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### My Languages Tools And Librarys ⚙️
+### My Tools And Librarys ⚙️
 
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
@@ -27,3 +27,4 @@ As a front-end web developer, I specialize in creating attractive and responsive
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+[![BimaBizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimaBizz)](https://github.com/BimaBizz/github-readme-stats)
