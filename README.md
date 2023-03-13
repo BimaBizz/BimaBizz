@@ -29,4 +29,4 @@ As a front-end web developer, I specialize in creating attractive and responsive
 
 <hr>
 
-[![BimaBizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimaBizz)](https://github.com/BimaBizz/github-readme-stats)
+![BimaBizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimaBizz&show_icons=true&theme=transparent)
