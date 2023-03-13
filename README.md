@@ -1,4 +1,4 @@
-# Hey, I'm Bima Mahendra 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Bima. I do love code how about you?" src="./assets/gh-readme-header.png" /></a></p>
 
 As a front-end web developer, I specialize in creating attractive and responsive user interfaces. I have in-depth knowledge of web programming languages such as HTML, CSS, and JavaScript, as well as experience in using various tools and technologies related to front-end web development.
 
@@ -26,5 +26,7 @@ As a front-end web developer, I specialize in creating attractive and responsive
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+<hr>
 
 [![BimaBizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimaBizz)](https://github.com/BimaBizz/github-readme-stats)
