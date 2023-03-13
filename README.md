@@ -27,9 +27,3 @@ As a front-end web developer, I specialize in creating attractive and responsive
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Find me elsewhere 🌐
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mjamilasfihani)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mjamilasfihani)
-  
-<a href="https://www.google.com/search?q=Mohammad+Jamil+Asfihani">google.com/search?q=Mohammad+Jamil+Asfihani</a>
