@@ -32,6 +32,3 @@ As a front-end web developer, I specialize in creating attractive and responsive
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-<hr>
-
-![BimaBizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimaBizz&show_icons=true&theme=transparent)
